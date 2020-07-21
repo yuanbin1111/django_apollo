@@ -9,4 +9,5 @@ urlpatterns = [
     path('login/',views.login),
     path('safe_a/',views.safe_a)
 
+    path('safe_b/',views.safe_b)
 ]
